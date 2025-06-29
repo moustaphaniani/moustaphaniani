@@ -26,9 +26,9 @@ Soy especialista en soluciones web profesionales para negocios, ecommerce y marc
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [plugin-envios-woo](https://github.com/moustaphaniani/plugin-envios-woo) | Plugin para gestionar zonas de envío personalizadas | PHP, WooCommerce |
-| [tema-wordpress-negocios](https://github.com/moustaphaniani/tema-wordpress-negocios) | Tema WordPress para empresas locales en Andorra | WordPress, ACF, PHP |
-| [api-facturacion](https://github.com/moustaphaniani/api-facturacion) | API REST en PHP para generar facturas automáticamente | PHP, MySQL, JWT |
+| plugin-envios-woo | Plugin para gestionar zonas de envío personalizadas | PHP, WooCommerce |
+| tema-wordpress-negocios | Tema WordPress para empresas locales en Andorra | WordPress, ACF, PHP |
+| api-facturacion | API REST en PHP para generar facturas automáticamente | PHP, MySQL, JWT |
 
 🧩 *Y muchos más en camino...*
 
